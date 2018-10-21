@@ -1,4 +1,5 @@
 Google Project --> Google Service Account --> Dialogflow API
+<<<<<<< HEAD
 
 #
 Request comes from Facebook:
@@ -9,3 +10,5 @@ Request comes from Facebook:
   5. get response from Dialogflow
   6. handle action
   7. send response back to Facebook Messenger
+=======
+>>>>>>> 363785d7789f9b2cfc8677adbae4ab799ebcd53a
