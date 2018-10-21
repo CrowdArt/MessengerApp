@@ -1,0 +1,22 @@
+{
+  "name": "messengerapp",
+  "version": "1.0.0",
+  "description": "Facebook Messesnger Chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrowdArt/MessengerApp.git"
+  },
+  "author": "Vuk Djukic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrowdArt/MessengerApp/issues"
+  },
+  "homepage": "https://github.com/CrowdArt/MessengerApp#readme",
+  "dependencies": {
+    "node": "^10.12.0"
+  }
+}
